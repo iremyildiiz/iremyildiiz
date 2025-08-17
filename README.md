@@ -4,6 +4,7 @@
 🏫 Nevşehir Hacı Bektaş Veli Üniversitesi  
 
 💻 Mobil uygulama geliştirme 
+
 📱 React Native & Başlangıç seviye Swift ile projeler geliştiriyorum
 
 📩 : [iremyildiiz00@gmail.com]
