@@ -5,6 +5,6 @@
 
 💻 Mobil uygulama geliştirme 
 
-📱 React Native & Başlangıç seviye Swift ile projeler geliştiriyorum
+📱 React Native & Başlangıç Seviye Swift ile projeler geliştiriyorum
 
 📩 : [iremyildiiz00@gmail.com]
